@@ -1,7 +1,6 @@
 # Cloudflare Worker CDN
 
-## Description
-This repository contains the code for a Cloudflare Worker that implements a Content Delivery Network (CDN) using Cloudflare's Workers KV storage. It is designed to handle the upload and retrieval of media files, such as images and videos.
+ A Cloudflare Worker that implements a Content Delivery Network (CDN) using Cloudflare's Workers KV storage. It is designed to handle the upload and retrieval of media files, such as images and videos.
 
 ## Features
 - **File Upload**: Supports uploading images and videos via POST requests.
