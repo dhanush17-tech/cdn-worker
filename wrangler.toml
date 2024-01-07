@@ -1,6 +1,12 @@
 name = "super-hill-80c5"
 main = "src/index.ts"
 compatibility_date = "2023-12-18"
+type = "typescript"
+account_id = "6af8f75897522ce7d97f9641eb37faa0"
+kv_namespaces = [
+  { binding = "CDN", id = "5114f731d6d64baea7bfb7c2c9b434c4" }
+]
+
 
 # Variable bindings. These are arbitrary, plaintext strings (similar to environment variables)
 # Note: Use secrets to store sensitive data.
